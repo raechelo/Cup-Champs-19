@@ -201,7 +201,7 @@ const Blues = [
   },
   {
     name: 'Chris Butler',
-    image: '',
+    image: 'http://www.hockeydb.com/ihdb/photos/chris-butler-2016-36.jpg',
     number: 25,
     position: 'Defense',
     height: '6\' 1"',

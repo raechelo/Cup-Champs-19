@@ -1,12 +1,12 @@
 import React from 'react';
-import PlayerCard from '../PlayerCard/PlayerCard';
-import Blues from '../data';
+import Cup from '../assets/cup.gif';
+
 
 const Home = () => {
-  let displayCards = Blues.map(blue => <PlayerCard {...blue} />)
   return (
     <section className="Home">
-      {displayCards}
+      <h2>2019 Stanley Cup Champions!</h2>
+      <img src={Cup} className="Cup" />
     </section>
   )
 }
