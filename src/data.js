@@ -1,6 +1,7 @@
-blues = [
+const Blues = [
   {
     name: 'Ivan  Barbashev',
+    image: 'http://www.hockeydb.com/ihdb/photos/ivan-barbashev-2019-36.jpg',
     number: 49,
     position: 'center',
     height: '6\' 0"',
@@ -10,6 +11,7 @@ blues = [
   },
   {
     name: 'Sammy Blais',
+    image: 'http://www.hockeydb.com/ihdb/photos/sammy-blais-2019-36.jpg',
     number: 9,
     position: 'left wing',
     height: '6\' 2"',
@@ -19,6 +21,7 @@ blues = [
   },
   {
     name: 'Tyler Bozak',
+    image: 'http://www.hockeydb.com/ihdb/photos/tyler-bozak-2019-36.jpg',
     number: 21,
     position: 'center',
     height: '6\' 1"',
@@ -27,7 +30,8 @@ blues = [
     birthplace: 'Regina, SK, CAN'
   },
   {
-    name: 'Robbi Fabri',
+    name: 'Robby Fabri',
+    image: 'http://www.hockeydb.com/ihdb/photos/robby-fabbri-2019-36.jpg',
     number: 15,
     position: 'center',
     height: '5\' 10"',
@@ -37,6 +41,7 @@ blues = [
   },
   {
     name: 'Jordan Kyrou',
+    image: 'http://www.hockeydb.com/ihdb/photos/jordan-kyrou-2018-36.jpg',
     number: 33,
     position: 'center',
     height: '6\' 0"',
@@ -46,6 +51,7 @@ blues = [
   },
   {
     name: 'Mackenzie MacEachern',
+    image: 'http://www.hockeydb.com/ihdb/stats/photo.php?if=mackenzie-maceachern-2019-36.jpg',
     number: 62,
     position: 'left wing',
     height: '6\' 2"',
@@ -55,6 +61,7 @@ blues = [
   },
   {
     name: 'Pat Maroon',
+    image: 'http://www.hockeydb.com/ihdb/photos/patrick-maroon-2019-36.jpg',
     number: 7,
     position: 'left wing',
     height: '6\' 3"',
@@ -64,6 +71,7 @@ blues = [
   },
   {
     name: 'Jordan Nolan',
+    image: 'http://www.hockeydb.com/ihdb/photos/jordan-nolan-2019-36.jpg',
     number: 71,
     position: 'center',
     height: '6\' 3"',
@@ -73,6 +81,7 @@ blues = [
   },
   {
     name: 'Ryan O\'Reilly',
+    image: "http://www.hockeydb.com/ihdb/photos/ryan-o'reilly-2019-36.jpg",
     number: 90,
     position: 'center',
     height: '6\' 1"',
@@ -82,6 +91,7 @@ blues = [
   },
   {
     name: 'David Perron',
+    image: 'http://www.hockeydb.com/ihdb/photos/david-perron-2019-36.jpg',
     number: 57,
     position: 'left wing',
     height: '6\' 0"',
@@ -91,6 +101,7 @@ blues = [
   },
   {
     name: 'Zach Sanford',
+    image: 'http://www.hockeydb.com/ihdb/photos/zach-sanford-2019-36.jpg',
     number: 12,
     position: 'left wing',
     height: '6\' 4"',
@@ -100,6 +111,7 @@ blues = [
   },
   {
     name: 'Brayden Schenn',
+    image: 'http://www.hockeydb.com/ihdb/photos/brayden-schenn-2019-36.jpg',
     number: 10,
     position: 'center',
     height: '6\' 1"',
@@ -109,6 +121,7 @@ blues = [
   },
   {
     name: 'Jaden Schwartz',
+    image: 'http://www.hockeydb.com/ihdb/photos/jaden-schwartz-2019-36.jpg',
     number: 17,
     position: 'left wing',
     height: '5\' 10"',
@@ -118,6 +131,7 @@ blues = [
   },
   {
     name: 'Alexander Steen (A)',
+    image: 'http://www.hockeydb.com/ihdb/photos/alexander-steen-2019-36.jpg',
     number: 20,
     position: 'left wing',
     height: '6\' 0"',
@@ -127,6 +141,7 @@ blues = [
   },
   {
     name: 'Oskar Sundqvist',
+    image: 'http://www.hockeydb.com/ihdb/photos/oskar-sundqvist-2019-36.jpg',
     number: 70,
     position: 'center',
     height: '6\' 3"',
@@ -136,6 +151,7 @@ blues = [
   },
   {
     name: 'Vladimir Tarasenko (A)',
+    image: 'http://www.hockeydb.com/ihdb/photos/vladimir-tarasenko-2018-36.jpg',
     number: 91,
     position: 'right wing',
     height: '6\' 0"',
@@ -145,6 +161,7 @@ blues = [
   },
   {
     name: 'Robert Thomas',
+    image: 'http://www.hockeydb.com/ihdb/photos/robert-thomas-2018-36.jpg',
     number: 18,
     position: 'center',
     height: '6\' 0"',
@@ -154,6 +171,7 @@ blues = [
   },
   {
     name: 'Chris Thorburn',
+    image: 'http://www.hockeydb.com/ihdb/photos/chris-thorburn-2018-36.jpg',
     number: 22,
     position: 'right wing',
     height: '6\' 3"',
@@ -163,6 +181,7 @@ blues = [
   },
   {
     name: 'Robert Bortuzzo',
+    image: 'http://www.hockeydb.com/ihdb/photos/robert-bortuzzo-2019-36.jpg',
     number: 41,
     position: 'Defense',
     height: '6\' 4"',
@@ -172,6 +191,7 @@ blues = [
   },
   {
     name: 'Jay Bouwmeester',
+    image: 'http://www.hockeydb.com/ihdb/photos/jay-bouwmeester-2019-36.jpg',
     number: 19,
     position: 'Defense',
     height: '6\' 4"',
@@ -181,15 +201,17 @@ blues = [
   },
   {
     name: 'Chris Butler',
+    image: '',
     number: 25,
     position: 'Defense',
     height: '6\' 1"',
     weight: 196,
-    born: 'DOctober 27, 1986',
+    born: 'October 27, 1986',
     birthplace: 'St. Louis, MO, USA'
   },
   {
     name: 'Michael Del Zotto',
+    image: 'http://www.hockeydb.com/ihdb/photos/michael-del_zotto-2018-39.jpg',
     number: 42,
     position: 'Defense',
     height: '6\' 0"',
@@ -199,6 +221,7 @@ blues = [
   },
   {
     name: 'Vince Dunn',
+    image: 'http://www.hockeydb.com/ihdb/photos/vince-dunn-2019-36.jpg',
     number: 29,
     position: 'Defense',
     height: '6\' 0"',
@@ -208,6 +231,7 @@ blues = [
   },
   {
     name: 'Joel Edmundson',
+    image: 'http://www.hockeydb.com/ihdb/photos/joel-edmundson-2019-36.jpg',
     number: 6,
     position: 'Defense',
     height: '6\' 4"',
@@ -217,6 +241,7 @@ blues = [
   },
   {
     name: 'Carl Gunnarsson',
+    image: 'http://www.hockeydb.com/ihdb/photos/carl-gunnarsson-2019-36.jpg',
     number: 4,
     position: 'Defense',
     height: '6\' 2"',
@@ -226,6 +251,7 @@ blues = [
   },
   {
     name: 'Colton Parayko',
+    image: 'http://www.hockeydb.com/ihdb/photos/colton-parayko-2019-36.jpg',
     number: 55,
     position: 'Defense',
     height: '6\' 6"',
@@ -235,6 +261,7 @@ blues = [
   },
   {
     name: 'Alex Pietrangelo (C)',
+    image: 'http://www.hockeydb.com/ihdb/stats/photo.php?if=alex-pietrangelo-2018-36.jpg',
     number: 27,
     position: 'Defense',
     height: '6\' 3"',
@@ -244,6 +271,7 @@ blues = [
   },
   {
     name: 'Jake Allen',
+    image: 'http://www.hockeydb.com/ihdb/photos/jake-allen-2014-36.jpg',
     number: 34,
     position: 'Goalie',
     height: '6\' 2"',
@@ -253,6 +281,7 @@ blues = [
   },
   {
     name: 'Jordan Binnington',
+    image: 'http://www.hockeydb.com/ihdb/photos/jordan-binnington-2016-36.jpg',
     number: 50,
     position: 'Goalie',
     height: '6\' 1"',
@@ -262,6 +291,7 @@ blues = [
   },
   {
     name: 'Ville Husso',
+    image: 'http://www.hockeydb.com/ihdb/photos/ville-husso-2019-36.jpg',
     number: 35,
     position: 'Goalie',
     height: '6\' 3"',
@@ -270,3 +300,5 @@ blues = [
     birthplace: 'Helsinki, FIN'
   }
 ]
+
+export default Blues;

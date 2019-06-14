@@ -1,0 +1,30 @@
+.Header {
+  font-family: $fancy-font;
+  color: white;
+  display: grid;
+  grid-template-areas: ". home games";
+
+  .link {
+    color: white;
+    text-decoration: none;
+    
+    &:visited {
+      color: white;
+    }
+
+    &:hover {
+      color: $card-border;
+      text-decoration: underline;
+    }
+  }
+
+  h1, h2 {
+    grid-area: home;
+    margin: 0;
+    text-align: center;
+  }
+
+  h3 {
+    grid-area: games;
+  }
+}
