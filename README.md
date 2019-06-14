@@ -11,4 +11,4 @@ When we won Wednesday night, I knew I wanted to create a small app that was a tr
 - npm start
 
 ## Screenshots
-<iframe style="border: none;" width="800" height="450" src="https://www.figma.com/embed?embed_host=share&url=https%3A%2F%2Fwww.figma.com%2Ffile%2FgwhBvU6COxh3z6mo3q9GqM9j%2FUntitled%3Fnode-id%3D0%253A1" allowfullscreen></iframe>
+[![Screen-Shot-2019-06-14-at-1-21-06-PM.png](https://i.postimg.cc/FsPBDKq7/Screen-Shot-2019-06-14-at-1-21-06-PM.png)](https://postimg.cc/Czq7Kwwg)
