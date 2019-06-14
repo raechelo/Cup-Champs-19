@@ -1,5 +1,36 @@
+//fonts
 $fancy-font: 'Permanent Marker', cursive;
 $body-font: 'Open Sans', sans-serif;
 
+
+//colors
 $card-border: hsl(41, 72%, 53%);
 $card-bg: hsla(212, 71%, 15%, .6);
+
+//animations
+@keyframes font-expand {
+  0% {
+    letter-spacing: -0.5em;
+    transform: translateZ(-700px);
+    opacity: 0;
+  }
+  40% {
+    opacity: 0.6;
+  }
+  100% {
+    transform: translateZ(0);
+    opacity: 1;
+  }
+}
+
+@keyframes rotate-scale {
+  0% {
+    transform: scale(1) rotateY(0);
+  }
+  50% {
+    transform: scale(2) rotateY(180deg);
+  }
+  100% {
+    transform: scale(1) rotateY(360deg);
+  }
+}
