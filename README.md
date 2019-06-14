@@ -11,4 +11,9 @@ When we won Wednesday night, I knew I wanted to create a small app that was a tr
 - npm start
 
 ## Screenshots
+Wireframe
+
 [![Screen-Shot-2019-06-14-at-1-21-06-PM.png](https://i.postimg.cc/FsPBDKq7/Screen-Shot-2019-06-14-at-1-21-06-PM.png)](https://postimg.cc/Czq7Kwwg)
+
+Recreation
+[![screencapture-localhost-3000-roster-2019-06-14-13-22-07.png](https://i.postimg.cc/R0xQR5MW/screencapture-localhost-3000-roster-2019-06-14-13-22-07.png)](https://postimg.cc/0zZwk4Kv)
