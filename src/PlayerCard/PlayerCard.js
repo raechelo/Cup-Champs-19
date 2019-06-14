@@ -5,7 +5,7 @@ const PlayerCard = (props) => {
   return (
     <article className="PlayerCard">
       <h4>#{number}</h4>
-      <image src={image} alt={name} />
+      <img src={image} alt={name} />
       <h3>{name}</h3>
       <h5>{position}</h5>
       <h5>{height}</h5>
