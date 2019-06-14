@@ -206,7 +206,7 @@ const Blues = [
     position: 'Defense',
     height: '6\' 1"',
     weight: 196,
-    born: 'DOctober 27, 1986',
+    born: 'October 27, 1986',
     birthplace: 'St. Louis, MO, USA'
   },
   {
