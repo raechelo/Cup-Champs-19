@@ -1,4 +1,4 @@
-blues = [
+const Blues = [
   {
     name: 'Ivan  Barbashev',
     image: 'http://www.hockeydb.com/ihdb/photos/ivan-barbashev-2019-36.jpg',
@@ -300,3 +300,5 @@ blues = [
     birthplace: 'Helsinki, FIN'
   }
 ]
+
+export default Blues;
